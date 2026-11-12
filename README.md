@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=3E92CC&center=true&vCenter=true&width=600&lines=I+train+software+how+to+think.;Multi-agent+reinforcement+learning;AI+agents+%E2%80%A2+ML+systems+%E2%80%A2+Automation" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajjwal-pandey-a93865320)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/anshownn)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@aionixos)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/anshownn)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/knowansh)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@knowanshh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/knowansh)
 [![Email](https://img.shields.io/badge/Email-0A2463?style=flat&logo=gmail&logoColor=white)](mailto:prajjwalp86@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=aionixOS&color=3E92CC&style=flat&label=Profile+Views)
 
@@ -17,7 +17,7 @@
 
 | | |
 | :--- | :--- |
-| **Name** | Prajjwal Pandey (Aionix) |
+| **Name** | Prajjwal Pandey (Ansh) |
 | **Location** | Bengaluru, India |
 | **Education** | Computer Science, Scaler School of Technology |
 | **Role** | Co-founder & CEO, [Apres](https://github.com/Apres-Tech) |
