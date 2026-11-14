@@ -50,7 +50,7 @@
 
 | Event | Placement | Project | Details |
 | :--- | :---: | :--- | :--- |
-| **Gradient Rush Hackathon**<br/><sub>Scaler School of Technology · 315+ participants</sub> | 🥇 **1st Place** | **MeshPay** — Offline Payment Wallet | Engineered an offline QR and Bluetooth-based payment platform enabling peer-to-peer transactions without active internet connectivity. Team *Discrete*. [Announcement](https://www.instagram.com/p/Dc0QbhJoDib/) |
+| **Gradient Rush Hackathon**<br/><sub>Scaler School of Technology </sub> | 🥇 **1st Place** | **MeshPay** — Offline Payment Wallet | Engineered an offline QR and Bluetooth-based payment platform enabling peer-to-peer transactions without active internet connectivity. Team *Discrete*. [Announcement](https://www.instagram.com/p/Dc0QbhJoDib/) |
 | **SAIS'26 — Startup & Investors Summit**<br/><sub>Bengaluru Edition</sub> | 🥈 **2nd Rank** | **Finance ERP** | Pitched an AI-native Finance ERP to a panel of founders, investors, and industry leaders. [Post](https://www.linkedin.com/posts/knowansh_sais26-scaler-scalerschooloftechnology-ugcPost-7499790393824346113-WteY) |
 
 
